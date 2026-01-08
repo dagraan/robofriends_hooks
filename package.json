@@ -2,7 +2,7 @@
   "name": "robofriends",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://dagraan.github.io/robofriends/",
+  "homepage": "https://dagraan.github.io/myrobofriends/",
   "type": "module",
   "scripts": {
     "dev": "vite",
