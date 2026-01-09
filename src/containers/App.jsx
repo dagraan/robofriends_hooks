@@ -29,7 +29,7 @@ function App() {
 
       // .then(users => {this.setState({ robots: users})});
       .then(users => {setRobots(users)});
-      console.log(count)
+      // console.log(count)
   //}
   },[]) // if you add count, only run if count changes.
 
